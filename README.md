@@ -1,6 +1,6 @@
 # n-s
 build a N-S solver for CFD
-Start with simple schemes and their stability, accuracy
+Start with simple schemes and their stability, accuracy \n
   { 
     time scheme
     { 
